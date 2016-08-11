@@ -2,3 +2,5 @@
 branch another"master"
 
 git mergwe
+
+proverka push
